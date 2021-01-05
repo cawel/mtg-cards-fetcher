@@ -1,0 +1,6 @@
+!.keep
+*.DS_Store
+*.swo
+*.swp
+/node_modules
+/output
