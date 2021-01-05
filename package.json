@@ -1,0 +1,15 @@
+{
+  "name": "mtg-cards-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch all cards of a particular set using Scryfall SDK.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Carel",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0",
+    "scryfall-sdk": "^2.1.0"
+  }
+}
